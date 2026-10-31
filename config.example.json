@@ -1,0 +1,7 @@
+{
+  "title": "SoloPulse Demo",
+  "endpoints": [
+    {"name": "Example", "url": "https://example.com"},
+    {"name": "HTTPBin", "url": "https://httpbin.org/status/200"}
+  ]
+}

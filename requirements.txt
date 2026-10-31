@@ -1,0 +1,5 @@
+# Requirements
+# SoloPulse uses only Python stdlib. No pip install needed.
+# Python >= 3.8
+
+# For tests: unittest (stdlib)
